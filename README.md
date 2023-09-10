@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on a web application using Node JS backend and React JS Frontend hosted on AWS. 
-- 🌱 I’m currently learning Java and Springboot. Also, trying my bit at NLP
+- 🔭 I’m currently working on payments processing service backend for an e-commerce startup. 
+- 🌱 I’m currently learning Java and Springboot. Also, trying my bit at LLMs.
 - 👯 I’m open to mentor students about web development and software engineering practices
 - 🤔 I’m looking for help with improving my productivity
 - 💬 Ask me about managing a team
